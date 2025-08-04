@@ -1,4 +1,8 @@
 # 一键管理服务器运维工具
+
+```
+bash <(curl -sL https://github.com/3981877/server_script/releases/download/1.0/server_script.sh)
+```
 <img width="1600" height="1491" alt="image" src="https://github.com/user-attachments/assets/12f73489-edd0-45b7-b678-35df5cf376a8" />
 
 支持的操作系统
